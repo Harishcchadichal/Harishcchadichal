@@ -1,8 +1,7 @@
 # Hi 👋, I'm Harish C Chadichal
-🌱 I’m currently learning Python for data science
-
 👨‍💻 I’m currently Pursuing My Bachelor's Degree in Electronics and Communication Engineering
-
+🎯 I’m interested in Data Science
+🌱 I’m currently learning Python for data science
 📫 Reach out to me at chadichalharish31@gmail.com
 
 ## 🌐 Socials:
